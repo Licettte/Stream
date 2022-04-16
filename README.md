@@ -5,7 +5,7 @@
 ```java
 findPlanesLeavingInTheNextTwoHours(Airport.getInstance());
 ```   
-
+……………………………………………………………………………………………………………………………………
 ## Задание  Neoflex
 
 ## Duplicates
