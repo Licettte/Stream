@@ -1,9 +1,10 @@
-## Задание  SkillBox
+## Задание  Skillbox
 
 Реализуйте метод `findPlanesLeavingInTheNextTwoHours`, который должен вернуть список рейсов, вылетающих в ближайшие два часа.
 
-findPlanesLeavingInTheNextTwoHours(Airport.getInstance())
-        
+```java
+findPlanesLeavingInTheNextTwoHours(Airport.getInstance());
+```   
 
 ## Задание  Neoflex
 
